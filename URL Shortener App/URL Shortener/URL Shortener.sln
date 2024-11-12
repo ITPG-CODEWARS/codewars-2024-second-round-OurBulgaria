@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35424.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URL Shortener", "URL Shortener\URL Shortener.csproj", "{FBFA96E7-4EE5-43E5-A96E-0B968226018A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "URL Shortener Setup", "URL Shortener Setup\URL Shortener Setup.vdproj", "{314106DA-E127-43F9-8B55-DA7F19AD6AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFA96E7-4EE5-43E5-A96E-0B968226018A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFA96E7-4EE5-43E5-A96E-0B968226018A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFA96E7-4EE5-43E5-A96E-0B968226018A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFA96E7-4EE5-43E5-A96E-0B968226018A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314106DA-E127-43F9-8B55-DA7F19AD6AE5}.Debug|Any CPU.ActiveCfg = Debug
+		{314106DA-E127-43F9-8B55-DA7F19AD6AE5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

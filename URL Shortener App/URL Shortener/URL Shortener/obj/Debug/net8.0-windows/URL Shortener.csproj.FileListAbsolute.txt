@@ -1,0 +1,17 @@
+F:\URL Shortener 1\URL Shortener\URL Shortener\bin\Debug\net8.0-windows\URL Shortener.exe
+F:\URL Shortener 1\URL Shortener\URL Shortener\bin\Debug\net8.0-windows\URL Shortener.deps.json
+F:\URL Shortener 1\URL Shortener\URL Shortener\bin\Debug\net8.0-windows\URL Shortener.runtimeconfig.json
+F:\URL Shortener 1\URL Shortener\URL Shortener\bin\Debug\net8.0-windows\URL Shortener.dll
+F:\URL Shortener 1\URL Shortener\URL Shortener\bin\Debug\net8.0-windows\URL Shortener.pdb
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL_Shortener.Form1.resources
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.csproj.GenerateResource.cache
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.GeneratedMSBuildEditorConfig.editorconfig
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.AssemblyInfoInputs.cache
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.AssemblyInfo.cs
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.csproj.CoreCompileInputs.cache
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.dll
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\refint\URL Shortener.dll
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.pdb
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL Shortener.genruntimeconfig.cache
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\ref\URL Shortener.dll
+F:\URL Shortener 1\URL Shortener\URL Shortener\obj\Debug\net8.0-windows\URL_Shortener.Properties.Resources.resources
